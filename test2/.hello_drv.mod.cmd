@@ -1,0 +1,1 @@
+savedcmd_/home/qi/Public/OS_experiment/test2/hello_drv.mod := printf '%s\n'   hello_drv.o | awk '!x[$$0]++ { print("/home/qi/Public/OS_experiment/test2/"$$0) }' > /home/qi/Public/OS_experiment/test2/hello_drv.mod

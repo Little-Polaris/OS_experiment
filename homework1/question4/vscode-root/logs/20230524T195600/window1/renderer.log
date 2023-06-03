@@ -1,0 +1,11 @@
+2023-05-24 19:56:00.465 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-24 19:56:01.089 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2023-05-24 19:56:04.300 [info] [perf] Render performance baseline is 37ms
+2023-05-24 19:56:11.289 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-24 19:56:13.340 [warning] [twxs.cmake]: 无法注册“cmake.cmakePath”。此属性已注册。
+2023-05-24 19:56:13.987 [error] [Extension Host] (node:11306) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-05-24 19:56:14.243 [info] [perf] Render performance baseline is 42ms
+2023-05-24 19:56:22.409 [warning] Settings pattern "security.*" doesn't match any settings
+2023-05-24 19:56:22.409 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: interactiveEditor.editMode, accessibility.verbosity.diff-editor, accessibility.verbosity.terminal
+2023-05-24 20:02:45.469 [error] Exception occurred during xterm disposal Cannot read properties of undefined (reading 'instance')

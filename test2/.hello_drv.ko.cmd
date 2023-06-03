@@ -1,0 +1,1 @@
+savedcmd_/home/qi/Public/OS_experiment/test2/hello_drv.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/qi/Public/OS_experiment/test2/hello_drv.ko /home/qi/Public/OS_experiment/test2/hello_drv.o /home/qi/Public/OS_experiment/test2/hello_drv.mod.o;  true

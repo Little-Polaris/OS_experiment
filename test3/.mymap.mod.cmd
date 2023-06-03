@@ -1,0 +1,1 @@
+savedcmd_/home/qi/Public/OS_experiment/test3/mymap.mod := printf '%s\n'   mymap.o | awk '!x[$$0]++ { print("/home/qi/Public/OS_experiment/test3/"$$0) }' > /home/qi/Public/OS_experiment/test3/mymap.mod

@@ -1,0 +1,2 @@
+2023-05-26 14:02:31.905 [error] electron #1: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_CONNECTION_REFUSED
+2023-05-26 14:02:34.163 [error] browser #1: https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json - error GET XHR failed

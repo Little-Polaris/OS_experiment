@@ -1,0 +1,1 @@
+savedcmd_/home/qi/Public/OS_experiment/test3/mymap.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/qi/Public/OS_experiment/test3/mymap.ko /home/qi/Public/OS_experiment/test3/mymap.o /home/qi/Public/OS_experiment/test3/mymap.mod.o;  true
